@@ -1,4 +1,4 @@
-Docker Netbeans v12.4
+Docker Netbeans v12.6
 =====================
 
 # Introduction
