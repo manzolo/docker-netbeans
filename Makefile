@@ -9,9 +9,9 @@ help:
 	@echo "Targets:"
 	@echo "  help\t\tPrint this help"
 	@echo "  setup\t\tBuild docker images"
-	@echo "  run [app]\tRun app defined in '\$$APP' (spoon by default)"
+	@echo "  run\t\tRun netbeans"
 	@echo ""
-	@echo "Example: make run APP=spoon"
+	@echo "Example: make run"
 
 .PHONY: setup
 setup: Dockerfile
